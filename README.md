@@ -1,2 +1,2 @@
 # Logistic_regression
-It is an example ove churn banking data.
+It is an example over churn banking data.
